@@ -361,3 +361,5 @@ class DynatraceDataCollector(object):
 
 if __name__ == "__main__":
     DynatraceDataCollector()
+    while(true):
+        time.sleep(3)
